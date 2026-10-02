@@ -1,12 +1,4 @@
-# Thành viên nhóm — Day 13
+# Day 13 — Người thực hiện
 
-Điền trong thư mục nhóm private, không commit bản có thông tin cá nhân lên repo public.
-
-Mã nhóm/phòng:
-
-| Họ và tên | MSSV | Vai trò lượt A | Vai trò lượt B | Vai trò lượt C |
-| --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+- Hình thức thực hiện: **Cá nhân**
+- Nguyễn Tuấn Minh — **2A202602194**

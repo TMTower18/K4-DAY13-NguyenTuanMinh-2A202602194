@@ -27,11 +27,6 @@ run-*/
 qc-cases/
 provided-results/
 K4-DAY13-*/
-# The individual Day 13 submission contains Markdown only.
-!report/
-!report/K4-DAY13-NguyenTuanMinh-2A202602194/
-!report/K4-DAY13-NguyenTuanMinh-2A202602194/TEAMMATES.md
-!report/K4-DAY13-NguyenTuanMinh-2A202602194/PRE-LABEL-REPORT.md
 .DS_Store
 
 # Only the explicitly licensed KITTI adaptation is published.
